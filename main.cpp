@@ -9,5 +9,7 @@ int main()
     cout<<"Hi, please enter two numbers: ";
     cin>>num1;
     cin>>num2;
+
+    cout<<num1<<", "<<num2<<std::endl;
     return 0;
 }
